@@ -7,5 +7,6 @@ using namespace std;
 int main()
 {
     int t = 10;
+    char some_var = 'f';
     cout << t << endl;
 }
