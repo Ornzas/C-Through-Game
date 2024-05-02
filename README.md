@@ -1,2 +1,2 @@
 # C-Through-Game
-Beginig C++ through Game Programing Book
+Beginning C++ Through Game Programming Book
