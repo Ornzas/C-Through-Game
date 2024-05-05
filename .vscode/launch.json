@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lancer.DESKTOP-PAAPNU4/Desktop/programming_c++/C-Through-Game/section1",
-      "program": "c:/Users/Lancer.DESKTOP-PAAPNU4/Desktop/programming_c++/C-Through-Game/section1/build/Debug/outDebug",
+      "cwd": "c:/Users/Lancer.DESKTOP-PAAPNU4/Desktop/programming_c++/C-Through-Game/section3",
+      "program": "c:/Users/Lancer.DESKTOP-PAAPNU4/Desktop/programming_c++/C-Through-Game/section3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
